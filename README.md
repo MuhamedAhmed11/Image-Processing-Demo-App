@@ -50,7 +50,7 @@ _1. Login Tab_
 
 |               Login Tab                |    Login Tab - with failed message     |
 | :------------------------------------: | :------------------------------------: |
-| ![Login Tab ](./captures/loginTab.JPG) | ![Login Tab](./captures/loginTab2.JPG) |
+| ![Login Tab ](./Captures/loginTab.JPG) | ![Login Tab](./Captures/loginTab2.JPG) |
 
 &nbsp;
 
@@ -60,14 +60,14 @@ _2. Main Menu Tab_
 
 |  Menu Tab - with welcome message   |              Menu Tab              |
 | :--------------------------------: | :--------------------------------: |
-| ![Login Tab ](./captures/menu.JPG) | ![Login Tab](./captures/menu2.JPG) |
+| ![Login Tab ](./Captures/menu.JPG) | ![Login Tab](./Captures/menu2.JPG) |
 
 &nbsp;
 
 _3. Histogram Tab_
 
 > This tab for displaying Histogram of browsed Image, in addition to Equalize image and displaying Histogram of Equalized Image
-> ![histTab](./captures/histTab.JPG)
+> ![histTab](./Captures/histTab.JPG)
 
 &nbsp;
 
@@ -75,34 +75,34 @@ _4. Filter Tab_
 "User has two options:"
 
 > **First:** To apply Sobel filter by entering Threshold value, and Direction even if it vertical, horizontal, or both.
-> ![filterTab_sobel](./captures/filterTab_sobel.JPG) > **Second:** To apply Laplacian filter by entering alpha value, and Shape as full, same, or valid.
-> ![filterTab_laplacian](./captures/filterTab_laplacian.JPG)
+> ![filterTab_sobel](./Captures/filterTab_sobel.JPG) > **Second:** To apply Laplacian filter by entering alpha value, and Shape as full, same, or valid.
+> ![filterTab_laplacian](./Captures/filterTab_laplacian.JPG)
 
 &nbsp;
 
 _5. Fourier Transform:_
 User can apply a Fourier Transform to an image.
 
-> ![foureirTab](./captures/foureirTab.JPG)
+> ![foureirTab](./Captures/foureirTab.JPG)
 
 &nbsp;
 
 _6. Salt & Pepper Noise:_
 User can add noise by entering density value (or leave it with its default value: 0.2), and remove it by entering two numbers for masking.
 
-> ![salt&pepperNoise](./captures/salt&pepperNoise.JPG)
+> ![salt&pepperNoise](./Captures/salt&pepperNoise.JPG)
 
 &nbsp;
 
 _7. Periodic Noise Tab:_
 User can add noise (sine, or cosine wave) in any direction x, y, or both by entering number of number value (or with its default value: 0.2), and remove it one of three methods: Notch, Band Reject, or Masking with Zeros.
 
-> - **Notch:** > ![periodicNoise1](./captures/periodicNoise1.JPG)
-> - **Band Reject:** > ![periodicNoise2](./captures/periodicNoise2.JPG)
+> - **Notch:** ![periodicNoise1](./Captures/periodicNoise1.JPG)
+> - **Band Reject:** ![periodicNoise2](./Captures/periodicNoise2.JPG)
 > - **Masking with Zeros:**
 >   In this method user will choose two points from Fourier of noisy image and
 >   result (filtered image) will appear automatically.
->   ![periodicNoise3](./captures/periodicNoise3.JPG)
+>   ![periodicNoise3](./Captures/periodicNoise3.JPG)
 
 ---
 
